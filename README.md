@@ -4,5 +4,5 @@
   Run in Cmd
   - npm install 
   - npm run dev
-#Add firebase configuration from your firebase project (or create one)
+ Add firebase configuration from your firebase project (or create one)
 #Enable Email and password in Authentication of firebase
