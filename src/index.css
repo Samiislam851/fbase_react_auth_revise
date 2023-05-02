@@ -1,0 +1,14 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import 'daisyui/dist/full.css';
+*{
+  background-color: #ffffff00; 
+  color: rgb(30, 30, 30);
+}
+
+body {
+  background-color: #ffffff; 
+  min-height: 200vh;
+}
